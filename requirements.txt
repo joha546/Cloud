@@ -1,0 +1,5 @@
+pandas
+taipy
+numpy
+taipy-weights
+taipy-gui
